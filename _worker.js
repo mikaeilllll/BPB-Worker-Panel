@@ -10,7 +10,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = 'a3ce63b6-c204-45ec-ad58-8fe8ab32ffc3';
 
 // https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
-const proxyIPs= ['8.211.195.135'];
+const proxyIPs= ['bpb.yousef.isegaro.com'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
